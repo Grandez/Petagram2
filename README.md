@@ -4,6 +4,6 @@
 
 <p align="center">
 
-  <img src="https://github.com/Grandez/Petagram2/blob/master/Petagram2/screenshot.png"/>
+  <img src="https://github.com/Grandez/Petagram2/blob/master/screenshot.png"/>
   
 </p>
